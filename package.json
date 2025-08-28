@@ -1,13 +1,9 @@
 {
-  "homepage": "https://BsHeR4.github.io/real_estate_business/",
-  "name": "real_estate_business",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
